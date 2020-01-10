@@ -1,0 +1,151 @@
+[
+  {
+    "title": "Lorem Ipsum is a Dummy Text",
+    "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui nunc mattis enim ut tellus.Consectetur a erat nam at lectus urna. Sed risus pretium quam vulputate dignissim suspendisse in est. Sed felis eget velit aliquet sagittis id. Quisque egestas diam in arcu cursus euismod quis viverra. Suspendisse ultrices gravida dictum fusce ut placerat orci. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. Risus feugiat in ante metus dictum at. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Dui accumsan sit amet nulla facilisi morbi tempus. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.</p>",
+    "sliderImages": [
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/"
+    ],
+    "thumbnail":["https://via.placeholder.com/300/09f/fff.png/"],
+    "highlight1": "Power Input",
+    "highlight2": "Power Output",
+    "information": [
+      {
+        "product_feature1": "Good Perfomance",
+        "product_feature2": "Well Structure",
+        "product_feature3": "Thin",
+        "product_feature4": "Readbability",
+        "product_feature5": "Good Backup",
+        "product_feature6": "Long Life",
+        "product_feature7": "Insured"
+      }
+    ],
+    "tags": [
+      {
+        "tag_type": "LG"
+      }
+    ],
+    "highlight3": "Power Source",
+    "highlight4": "Power Type",
+    "highlight5": "Charging Time",
+    "highlight6": "Output Current",
+    "highlight7": "Output Wattage"
+  },
+  {
+    "title": "Lorem Ipsum is a Dummy Text",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui nunc mattis enim ut tellus.Consectetur a erat nam at lectus urna. Sed risus pretium quam vulputate dignissim suspendisse in est. Sed felis eget velit aliquet sagittis id. Quisque egestas diam in arcu cursus euismod quis viverra. Suspendisse ultrices gravida dictum fusce ut placerat orci. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. Risus feugiat in ante metus dictum at. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Dui accumsan sit amet nulla facilisi morbi tempus. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.</p>",
+    "sliderImages": [
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/"
+    ],
+    "thumbnail":["https://via.placeholder.com/300/09f/fff.png/"],
+    "highlight1": "Power Input",
+    "highlight2": "Power Output",
+    "information": [
+      {
+        "product_feature1": "Good Perfomance",
+        "product_feature2": "Well Structure",
+        "product_feature3": "Thin",
+        "product_feature4": "Readbability",
+        "product_feature5": "Good Backup",
+        "product_feature6": "Long Life",
+        "product_feature7": "Insured"
+      }
+    ],
+    "tags": [
+      {
+        "tag_type": "Sony"
+      }
+    ],
+    "highlight3": "Power Source",
+    "highlight4": "Power Type",
+    "highlight5": "Charging Time",
+    "highlight6": "Output Current",
+    "highlight7": "Output Wattage"
+  },
+  {
+    "title": "Lorem Ipsum is a Dummy Text",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui nunc mattis enim ut tellus.Consectetur a erat nam at lectus urna. Sed risus pretium quam vulputate dignissim suspendisse in est. Sed felis eget velit aliquet sagittis id. Quisque egestas diam in arcu cursus euismod quis viverra. Suspendisse ultrices gravida dictum fusce ut placerat orci. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. Risus feugiat in ante metus dictum at. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Dui accumsan sit amet nulla facilisi morbi tempus. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.</p>",
+    "sliderImages": [
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/"
+    ],
+    "thumbnail":["https://via.placeholder.com/300/09f/fff.png/"],
+    "highlight1": "Power Input",
+    "highlight2": "Power Output",
+    "information": [
+      {
+       "product_feature1": "Good Perfomance",
+        "product_feature2": "Well Structure",
+        "product_feature3": "Thin",
+        "product_feature4": "Readbability",
+        "product_feature5": "Good Backup",
+        "product_feature6": "Long Life",
+        "product_feature7": "Insured"
+      }
+    ],
+    "tags": [
+      {
+        "tag_type": "Toshiba"
+      }
+    ],
+    "highlight3": "Power Source",
+    "highlight4": "Power Type",
+    "highlight5": "Charging Time",
+    "highlight6": "Output Current",
+    "highlight7": "Output Wattage"
+  },
+  {
+    "title": "Lorem Ipsum is a Dummy Text",
+    "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui nunc mattis enim ut tellus.Consectetur a erat nam at lectus urna. Sed risus pretium quam vulputate dignissim suspendisse in est. Sed felis eget velit aliquet sagittis id. Quisque egestas diam in arcu cursus euismod quis viverra. Suspendisse ultrices gravida dictum fusce ut placerat orci. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. Risus feugiat in ante metus dictum at. Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Dui accumsan sit amet nulla facilisi morbi tempus. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.</p>",
+    "sliderImages": [
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/",
+      "https://via.placeholder.com/300/09f/fff.png/"
+    ],
+    "thumbnail":["https://via.placeholder.com/300/09f/fff.png/"],
+    "highlight1": "Power Input",
+    "highlight2": "Power Output",
+    "information": [
+      {
+        "product_feature1": "Good Perfomance",
+        "product_feature2": "Well Structure",
+        "product_feature3": "Thin",
+        "product_feature4": "Readbability",
+        "product_feature5": "Good Backup",
+        "product_feature6": "Long Life",
+        "product_feature7": "Insured"
+      }
+    ],
+    "tags": [
+      {
+        "tag_type": "Samsung"
+      }
+    ],
+    "highlight3": "Power Source",
+    "highlight4": "Power Type",
+    "highlight5": "Charging Time",
+    "highlight6": "Output Current",
+    "highlight7": "Output Wattage"
+
+  }  
+]
