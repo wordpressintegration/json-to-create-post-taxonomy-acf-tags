@@ -7,7 +7,7 @@
 <p>To download the script, you first need to clone the repository or copy and paste the product.php file and then enter your JSON file URL in the product.php file. Both should be in the same position (folder). You need to paste both files on the root folder where the wp-config.php file exists.</p>
 
 
-### Clone file on localsystem
+### Clone file on a local system
 
 ```
 git clone https://github.com/wordpressintegration/json-to-create-post-taxonomy-acf-tags.git/
