@@ -15,7 +15,7 @@ git clone https://github.com/wordpressintegration/json-to-create-post-taxonomy-a
 
 ## Author
 
-* **Rupesh parmar** - *Initial work* - [rupeshparmar](https://github.com/rupesh78)
+* **WordpressIntegration** - *Initial work* - [rupeshparmar]
 
 
 ## License
